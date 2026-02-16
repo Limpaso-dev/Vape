@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Uploaded images (backend)
+vapebackend/uploads/
+
+# Frontend build output
+vape-admin/dist/
